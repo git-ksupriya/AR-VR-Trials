@@ -1,7 +1,7 @@
 # AR-VR-Trials
 A total beginner's entry into Unity and AR-VR.
 
-About the Project
+About the Project \n
 This repository documents my first steps into the world of AR and VR using Unity. As a total beginner, I’m exploring the basics, experimenting with features, and learning by doing.
 
 What to Expect
